@@ -38,7 +38,7 @@ export default function App() {
       style: {
         border: '1px solid #000',
         padding: '4px 8px',
-        borderRadius: '1px',
+        borderRadius: '4px',
         color: '#000',
         // minWidth: '300px'
       },
@@ -64,7 +64,7 @@ export default function App() {
       style: {
         border: '1px solid #000',
         padding: '4px 8px',
-        borderRadius: '1px',
+        borderRadius: '4px',
         color: '#000',
         // minWidth: '300px'
       },
@@ -90,7 +90,7 @@ export default function App() {
       style: {
         border: '1px solid #000',
         padding: '4px 8px',
-        borderRadius: '1px',
+        borderRadius: '4px',
         color: '#000',
         // minWidth: '300px'
       },
@@ -129,7 +129,7 @@ export default function App() {
           border: '1px solid #000',
           padding: '4px 8px',
           color: '#000',
-          borderRadius: '1px', 
+          borderRadius: '4px', 
           minWidth: '200px'
         },
         // Aria
