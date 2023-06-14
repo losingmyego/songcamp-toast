@@ -36,9 +36,9 @@ export default function App() {
       },
       // styling
       style: {
-        border: '1px solid #000000',
+        border: '1px solid #000',
         padding: '5px 10px',
-        color: '#000000',
+        color: '#000',
         // minWidth: '300px'
       },
       // Aria
@@ -56,14 +56,14 @@ export default function App() {
 
       // Change colors of success/error/loading icon
       iconTheme: {
-        primary: '#f00',
+        primary: '#000',
         secondary: '#fff',
       },
       // styling
       style: {
-        border: '1px solid #713200',
+        border: '1px solid #000',
         padding: '5px 10px',
-        color: '#713200',
+        color: '#000',
         // minWidth: '300px'
       },
       // Aria
@@ -86,9 +86,9 @@ export default function App() {
       },
       // styling
       style: {
-        border: '1px solid #713200',
+        border: '1px solid #000',
         padding: '5px 10px',
-        color: '#713200',
+        color: '#000',
         // minWidth: '300px'
       },
       // Aria
@@ -118,14 +118,14 @@ export default function App() {
 
         // Change colors of success/error/loading icon
         iconTheme: {
-          primary: '#0ff',
+          primary: '#000',
           secondary: '#fff',
         },
         // styling
         style: {
-          border: '1px solid #713200',
+          border: '1px solid #000',
           padding: '5px 10px',
-          color: '#713200',
+          color: '#000',
           minWidth: '200px'
         },
         // Aria
