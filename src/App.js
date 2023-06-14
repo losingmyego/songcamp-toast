@@ -37,7 +37,7 @@ export default function App() {
       // styling
       style: {
         border: '1px solid #000',
-        padding: '4px 8px',
+        padding: '0.5rem 1rem',
         borderRadius: '4px',
         color: '#000',
         // minWidth: '300px'
