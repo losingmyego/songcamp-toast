@@ -36,9 +36,9 @@ export default function App() {
       },
       // styling
       style: {
-        border: '1px solid #713200',
+        border: '1px solid #000000',
         padding: '5px 10px',
-        color: '#713200',
+        color: '#000000',
         // minWidth: '300px'
       },
       // Aria
