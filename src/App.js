@@ -16,6 +16,14 @@ export default function App() {
         primary: '#000',
         secondary: '#fff',
       },
+      // styling
+      style: {
+        border: '1px solid #000',
+        padding: '0.25rem 0.5rem',
+        borderRadius: '0.5rem',
+        color: '#000',
+        // minWidth: '300px'
+      },
       // Aria
       ariaProps: {
         role: 'status',
