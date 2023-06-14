@@ -7,13 +7,13 @@ export default function App() {
   const onClickHandler = () => {
     toast.success('Api data succcessfully received!', {
       duration: 4000,
-      position: 'top-right',
+      position: 'top-left',
 
       // Custom Icon
       icon: '👏',
       // Change colors of success/error/loading icon
       iconTheme: {
-        primary: '#0a0',
+        primary: '#000',
         secondary: '#fff',
       },
       // Aria
@@ -27,11 +27,11 @@ export default function App() {
   const onClickSuccessHandler = () => {
     toast.success('Custom toast message!', {
       duration: 4000,
-      position: 'top-right',
+      position: 'top-left',
 
       // Change colors of success/error/loading icon
       iconTheme: {
-        primary: '#0a0',
+        primary: '#000',
         secondary: '#fff',
       },
       // styling
@@ -52,7 +52,7 @@ export default function App() {
   const onClickErrorHandler = () => {
     toast.error('Api data posting error!', {
       duration: 4000,
-      position: 'top-right',
+      position: 'top-left',
 
       // Change colors of success/error/loading icon
       iconTheme: {
@@ -77,7 +77,7 @@ export default function App() {
   const onClickLoadingHandler = () => {
     toast.loading('Api data posting error!', {
       duration: 4000,
-      position: 'top-right',
+      position: 'top-left',
 
       // Change colors of success/error/loading icon
       iconTheme: {
@@ -114,7 +114,7 @@ export default function App() {
       },
       {
         duration: 10000,
-        position: 'top-right',
+        position: 'top-left',
 
         // Change colors of success/error/loading icon
         iconTheme: {
